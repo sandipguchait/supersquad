@@ -1,0 +1,38 @@
+body{
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background-image: url(../assets/avenger.jpg);
+    height: 10%;
+    background-size: cover;
+    background-repeat: none; 
+    opacity: 0.9;
+    font-family: 'Montserrat', sans-serif
+    
+}
+
+
+.App {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 5%;
+}
+
+.right-button{
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    cursor: pointer;
+    float: right;
+}
+
+.list-item{
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    box-shadow:black;
+    display: inline-block;
+}
+.good {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display:inline-block;
+}
